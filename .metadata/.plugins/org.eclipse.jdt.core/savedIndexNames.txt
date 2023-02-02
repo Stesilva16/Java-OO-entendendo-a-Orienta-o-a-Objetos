@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\stefa\OneDrive\Documentos\Estudos Ste\eclipse - alura\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+723383023.index
+2702459774.index
+1222848938.index
+2747769699.index
